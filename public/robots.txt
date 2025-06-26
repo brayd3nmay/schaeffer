@@ -1,0 +1,11 @@
+# *
+User-agent: *
+Allow: /
+Disallow: /api/*
+Disallow: /admin/*
+
+# Host
+Host: https://schaeffertank.com
+
+# Sitemaps
+Sitemap: https://schaeffertank.com/sitemap.xml
